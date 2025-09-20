@@ -1,3 +1,5 @@
 a=14
 b=90
+c=39
 print(b-a)
+print(c)
